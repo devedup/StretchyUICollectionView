@@ -21,4 +21,4 @@ It alters the constraints of the cell at index 0, and resets them when the cell 
 * The demo images are in an assets catalog.
 * It uses autolayout.
 
-![Preview](https://raw.github.com/devedup/StretchyUICollectionView/master/StrechyGif.gif)
+![Preview](https://raw.github.com/devedup/StretchyUICollectionView/master/StretchyGif.gif)
